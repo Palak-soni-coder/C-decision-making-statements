@@ -3,7 +3,6 @@
 # ENTC A3
 
 
-
 # Decision Making in C++
 
 In programming, decision making allows a program to choose different paths based on conditions. It's similar to how we take decisions in daily life — for example, “If it's raining, take an umbrella. Otherwise, don't.”
@@ -33,22 +32,75 @@ Best for fixed options (like menu choices or operator-based programs). Compares 
 
 ## Program on decision making
 
-
-
 ### 1. Even or Odd Checker
-Checks if a number is divisible by 2. Uses the modulus operator and `if-else` condition to determine and display whether the number is even or odd.
+Checks if a number is divisible by 2. Uses the modulus operator and `if-else` condition to determine and display whether the number is even or odd.<br>
+
+**Sample Output:** <br>
+Enter the number:
+78<br>
+The given number is even number.<br>
+
 
 ### 2. Vowel or Consonant Identifier
-Accepts a character input and checks whether it's a vowel using either `if-else` or a `switch` case. If not a vowel, it’s treated as a consonant.
+Accepts a character input and checks whether it's a vowel using either `if-else` or a `switch` case. If not a vowel, it’s treated as a consonant.<br>
+
+**Sample Output:** <br>
+Enter a character.
+p
+The given character is a consonant.<br>
 
 ### 3. Largest of Three Numbers
-Takes three numbers and uses `else-if` ladder or nested `if` to compare and determine the largest among them.
+Takes three numbers and uses `else-if` ladder or nested `if` to compare and determine the largest among them.<br>
+
+**Sample Output:** <br>
+Enter the value of a.
+67<br>
+Enter the value of b.
+89<br>
+Enter the value of c.
+90<br>
+c is the largest number.<br>
 
 ### 4. Simple Calculator
-Implements a calculator using a `switch` statement. Based on the operator entered (`+`, `-`, `*`, `/`), it performs the respective arithmetic operation.
+Implements a calculator using a `switch` statement. Based on the operator entered (`+`, `-`, `*`, `/`), it performs the respective arithmetic operation.<br>
+
+**Sample Output:** <br>
+Enter an operator (+, -, *, /): /<br>
+Enter two numbers: 10 2<br>
+10 / 2 = 5<br>
 
 ### 5. Switch case with break statements (food Menu Program)
-Menu-driven application using `switch-case`. Displays a food item based on the user's numeric choice. A default message is shown for invalid selections.
+Menu-driven application using `switch-case`. Displays a food item based on the user's numeric choice. A default message is shown for invalid selections.<br>
+
+**Sample Output:** <br>
+Welcome to the International Cuisine Menu<br> 
+1. Chinese food<br>
+   1. Manchurian<br>
+   2. Hakka Noodles<br>
+2. Italian food<br>
+   1. Spaghetti<br>
+   2. Pizza<br>
+3. Indian food<br>
+   1. Dosa<br>
+   2. Idli<br>
+4. Thai food<br>
+   1. Thai special sweet<br>
+   2. Thai curry<br>
+5. French food<br>
+   1. Macarons<br>
+   2. Onion soup<br>
+6. Mexican food<br>
+   1. Tacos<br>
+   2. Burritos<br>
+7. Japanese food<br>
+   1. Sushi<br>
+   2. Ramen<br>
+
+Enter your cuisine choice (1 to 7): 4<br>
+Enter your dish preference (1 or 2): 2<br>
+
+Cuisine: Thai<br>
+Dish: Thai curry<br>
 
 ---
 
