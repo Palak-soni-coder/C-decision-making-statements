@@ -34,7 +34,6 @@ int main() {
         default:
             cout << "Error! Invalid operator.";
             break;
-    }
 
     return 0;
 }
