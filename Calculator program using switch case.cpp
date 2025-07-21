@@ -1,6 +1,9 @@
-PALAK SONI
-ENTC A3
-24070123069
+//EXPERIMENT-5
+// PALAK SONI
+// ENTC A3
+// 24070123069
+//Problem Statement:Make a calculator using switch case.
+
 
 #include <iostream>
 using namespace std;
@@ -37,3 +40,9 @@ int main() {
 
     return 0;
 }
+
+/*Output
+Enter an operator (+, -, *, /): /
+Enter two numbers: 10 2
+10 / 2 = 5
+*/
