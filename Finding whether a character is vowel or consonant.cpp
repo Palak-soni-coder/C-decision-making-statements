@@ -1,7 +1,8 @@
-PALAK SONI
-24070123069
-ENTC A3
-EXP-5
+// EXP-5
+// PALAK SONI
+// 24070123069
+// ENTC A3
+//Problem statement: Write a program to find whether character entered by user is vowel or consonant.
 
 
 #include <iostream>
@@ -21,3 +22,9 @@ int main(){
     }
     return 0;
 }
+
+/*output
+Enter a character.
+p
+The given character is a consonant.
+*/
