@@ -1,9 +1,8 @@
+# EXPERIMENT-5
 # Name: Palak Soni
 # PRN: 24070123069
 # ENTC A3
-
-
-# Decision Making in C++
+# Title: Decision Making in C++
 
 In programming, decision making allows a program to choose different paths based on conditions. It's similar to how we take decisions in daily life — for example, “If it's raining, take an umbrella. Otherwise, don't.”
 
