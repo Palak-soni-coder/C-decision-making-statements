@@ -1,7 +1,8 @@
-PALAK SONI
-24070123069
-ENTC A3
-
+// EXPERIMENT-5
+// PALAK SONI
+// 24070123069
+// ENTC A3
+//Problem Statement: Write a program in C++ to find whether a given number is even or odd.
 
 #include <iostream>
 using namespace std;
@@ -18,3 +19,10 @@ int main() {
   }
     return 0;
 }
+
+
+/*Output
+Enter the number:
+78
+The given number is even number.
+*/
