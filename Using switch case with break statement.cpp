@@ -1,7 +1,8 @@
-PALAK SONI
-24070123069
-ENTC A3
-
+// EXPERIMENT-5
+// PALAK SONI
+// 24070123069
+// ENTC A3
+// Problem Statement: Write a program using switch case and break statements.
 
 #include <iostream>
 using namespace std;
@@ -107,3 +108,35 @@ int main() {
 
     return 0;
 }
+
+
+/*Output: 
+Welcome to the International Cuisine Menu 
+1. Chinese food
+   1. Manchurian
+   2. Hakka Noodles
+2. Italian food
+   1. Spaghetti
+   2. Pizza
+3. Indian food
+   1. Dosa
+   2. Idli
+4. Thai food
+   1. Thai special sweet
+   2. Thai curry
+5. French food
+   1. Macarons
+   2. Onion soup
+6. Mexican food
+   1. Tacos
+   2. Burritos
+7. Japanese food
+   1. Sushi
+   2. Ramen
+
+Enter your cuisine choice (1 to 7): 4
+Enter your dish preference (1 or 2): 2
+
+Cuisine: Thai
+Dish: Thai curry
+*/
