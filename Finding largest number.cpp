@@ -1,7 +1,8 @@
-PALAK SONI
-24070123069
-ENTC - A3
-
+//EXPERIMENT-5
+// PALAK SONI
+// 24070123069
+// ENTC - A3
+//Problem Statement:Write a program to find the largest number in C++
 
 #include<iostream>
 using namespace std;
@@ -27,3 +28,14 @@ int main(){
     return 0;
     
 }
+
+/*
+Output
+Enter the value of a.
+67
+Enter the value of b.
+89
+Enter the value of c.
+90
+c is the largest number.
+*/
